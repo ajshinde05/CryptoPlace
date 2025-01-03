@@ -13,7 +13,6 @@ CryptoPlace is a robust and user-friendly cryptocurrency monitoring application.
 -Backend: Node.js, Express
 -API Integration: Powered by [Crypto API] for real-time data
 
-##How to Use
 If you want to see the application live check this link
 =>> https://crypto-place-market.netlify.app/
 
